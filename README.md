@@ -1,3 +1,7 @@
+Para crear la aplicación correr el comando:
+
+### `npx create-react-app pokedex --template typescript`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
